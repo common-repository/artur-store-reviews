@@ -1,0 +1,233 @@
+# Copyright (C) 2017 Artur Store Reviews
+# This file is distributed under the same license as the Artur Store Reviews package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Artur Store Reviews 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/artur-store-"
+"reviews\n"
+"POT-Creation-Date: 2017-10-27 09:35:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/api.php:109
+msgid "Unauthorized call. Please check your Artur.com settings and try again."
+msgstr ""
+
+#: includes/api.php:114
+msgid "Requested field \"profileId\" id not found."
+msgstr ""
+
+#: includes/api.php:118 includes/api.php:172
+msgid "Uknown error occured while connecting to Artur.com server."
+msgstr ""
+
+#: includes/api.php:158
+msgid ""
+"User was removed from Artur system. Please contact Artur.com for more "
+"information."
+msgstr ""
+
+#: includes/api.php:163
+msgid ""
+"Provided username/password combination is wrong or user is authenticated, "
+"but not authorized for specified field \"profileId\""
+msgstr ""
+
+#: includes/api.php:168
+msgid ""
+"Server not found or connection to server refused. Please try again later or "
+"contact us at Artur.com ."
+msgstr ""
+
+#: includes/settings.php:37 includes/settings.php:38 views/settings.php:21
+msgid "Artur Store Review"
+msgstr ""
+
+#: includes/settings.php:100
+msgid "Settings saved and tested."
+msgstr ""
+
+#: includes/settings.php:120
+msgid ""
+"Production server call error. Please check your credential infromation. "
+"Message: \"%s\""
+msgstr ""
+
+#: includes/settings.php:122
+msgid "Server check ok."
+msgstr ""
+
+#: includes/settings.php:128
+msgid ""
+"Testing is enabled but provided email is not valid. Please set valid email "
+"in \"Test email\" and save settings."
+msgstr ""
+
+#: includes/settings.php:136
+msgid "All tests ok."
+msgstr ""
+
+#: includes/settings.php:190
+msgid "Web store and products"
+msgstr ""
+
+#: includes/settings.php:191
+msgid "Web store only"
+msgstr ""
+
+#: includes/settings.php:192
+msgid "Products only"
+msgstr ""
+
+#: includes/settings.php:202
+msgid "User must agree to recieve invitation for review (default)"
+msgstr ""
+
+#: includes/settings.php:203
+msgid ""
+"User agrees to recieve invitation for review by default but can opt out."
+msgstr ""
+
+#: includes/settings.php:204
+msgid ""
+"Hide user confirmation box. (I agree to follow all legal responsibilities in "
+"other ways.)"
+msgstr ""
+
+#: includes/woocommerce.php:70
+msgid "WooCommerce plugin not activated."
+msgstr ""
+
+#: includes/woocommerce.php:75
+msgid ""
+"WooCommerce version not supported. We support WooCommerce v%s and above."
+msgstr ""
+
+#: includes/woocommerce.php:80
+msgid "WooCommerce plugin is activated and supported check ok."
+msgstr ""
+
+#: includes/woocommerce.php:99
+msgid "Participate in review"
+msgstr ""
+
+#: includes/woocommerce.php:108
+msgid "I want to participate in store review"
+msgstr ""
+
+#: views/settings.php:10
+msgid ""
+"Hey you! Are you messing with code ? :)\n"
+"If you need any help, contact us at http://artur.com ."
+msgstr ""
+
+#: views/settings.php:60
+msgid "Enabled"
+msgstr ""
+
+#: views/settings.php:64
+msgid "(check this box to enable Artur Store Review functionality)"
+msgstr ""
+
+#: views/settings.php:81
+msgid "Production / live"
+msgstr ""
+
+#: views/settings.php:83
+msgid "Credentials"
+msgstr ""
+
+#: views/settings.php:87
+msgid "Username"
+msgstr ""
+
+#: views/settings.php:92
+msgid "Password"
+msgstr ""
+
+#: views/settings.php:93
+msgid "(Password is saved in plain text for its usage in API requests)"
+msgstr ""
+
+#: views/settings.php:97
+msgid "Web store ID"
+msgstr ""
+
+#: views/settings.php:102
+msgid "Review"
+msgstr ""
+
+#: views/settings.php:106
+msgid "Review type"
+msgstr ""
+
+#: views/settings.php:121
+msgid "Review products mail delay"
+msgstr ""
+
+#: views/settings.php:122 views/settings.php:127
+msgid "(in hours)"
+msgstr ""
+
+#: views/settings.php:126
+msgid "Review web store mail delay"
+msgstr ""
+
+#: views/settings.php:131
+msgid "Test Artur store reviews"
+msgstr ""
+
+#: views/settings.php:135
+msgid "Test email address"
+msgstr ""
+
+#: views/settings.php:136
+msgid ""
+"(For testing purposes. If set, all email will be sent to this address and "
+"none to your customers.)"
+msgstr ""
+
+#: views/settings.php:149
+msgid "WooCommerce"
+msgstr ""
+
+#: views/settings.php:151
+msgid "User confirmation"
+msgstr ""
+
+#: views/settings.php:152
+msgid ""
+"By default it is required to get user confirmation for sending them emails."
+msgstr ""
+
+#: views/settings.php:156
+msgid "Opt in"
+msgstr ""
+
+#: views/settings.php:172
+msgid "Save and test"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Artur Store Reviews"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/artur-store-reviews"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "External service artur.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Matevž Novak - optimiziram.si"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://optimiziram.si"
+msgstr ""
